@@ -1,11 +1,11 @@
 ### Hi there 👋
 <h1> Marcus Allen </h1>
 
-<img src="https://giphy.com/embed/x2F6DyEcfboLC" width="480" height="268" />
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 📫 How to reach me: marcusCallen24@gmail.com
-- ⚡ Fun fact: ...
+  <img align="center" alt="GIF" src="https://giphy.com/embed/vA2EUQWPNSfCg" width="500" height="320" />
+
+
+<br/>
+
+### Languages and Tools:
+
 
