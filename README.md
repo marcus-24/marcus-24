@@ -22,16 +22,21 @@ This is one of the best platforms where I can demonstrate my passion for applyi
 # My Typical Coding Session 
 Everyone needs to remember that there are people behind the screen who develop these creative solutions. Here's a glimpse of what goes on in my head when I'm coding 😊.
 
+<br/>
+
 When I run my code for the first time and everything works perfectly:
 
-<iframe align="center" src="https://giphy.com/embed/l4Ep3mmmj7Bw3adWw" width="480" height="368" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/soultrain-dance-dancing-l4Ep3mmmj7Bw3adWw">via GIPHY</a></p>
+<img  src="https://media.giphy.com/media/l4Ep3mmmj7Bw3adWw/giphy.gif" align="center" width="480" height="480" />
+
+<br />
+
 
 When my code works but I dont know why:
 
-<iframe src="https://giphy.com/embed/tvU9iTev6uBIQ" width="480" height="324" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/spongebob-squarepants-nervous-scared-tvU9iTev6uBIQ">via GIPHY</a></p>
+<img  src="https://media.giphy.com/media/tvU9iTev6uBIQ/giphy.gif" align="center" width="480" height="480" />
+
+<br />
 
 When the code produces an unexpected output and I have to find the error:
 
-<iframe src="https://giphy.com/embed/12shQyP6KMXCZW" width="480" height="235" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/naruto-shippuden-sasuke-12shQyP6KMXCZW">via GIPHY</a></p>
-
-
+<img  src="https://media.giphy.com/media/12shQyP6KMXCZW/giphy.gif" align="center" width="480" height="480" />
