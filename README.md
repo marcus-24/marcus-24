@@ -26,7 +26,7 @@ Everyone needs to remember that there are people behind the screen who develop t
 
 When I run my code for the first time and everything works perfectly:
 
-<img  src="https://media.giphy.com/media/l4Ep3mmmj7Bw3adWw/giphy.gif" align="center" width="480" height="480" />
+<img  src="https://media.giphy.com/media/IwAZ6dvvvaTtdI8SD5/giphy.gif" align="center" width="480" height="480" />
 
 <br />
 
