@@ -22,7 +22,7 @@ This is one of the best platforms where I can demonstrate my passion for applyi
 
 
     
-<table>
+<table cellspacing="0" cellpadding="0">
 <tr>
 <td>
 Raspberry Pi:
