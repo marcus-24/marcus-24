@@ -2,7 +2,7 @@
 # Introduction
 Welcome to my github page! 👋👋
 
-This is one of the best platforms where I can demonstrate my passion for applying my mechanical engineering knowledge  towards developing software for control systems and machine learning applications. Anyone is welcome to join my repositories as a collaborator so we can learn from each other. 
+This is one of the best platforms where I can demonstrate my passion for applying my mechanical engineering knowledge towards developing software for control systems and machine learning applications. Anyone is welcome to join my repositories as a collaborator so we can learn from each other. 
 
 <br/>
 
@@ -14,23 +14,34 @@ This is one of the best platforms where I can demonstrate my passion for applyi
 
 <a href="https://www.javascript.com" target="_blank"> <img align="left" alt="Javascript" width="26px" src="images/Javascript logo.png"/> </a>
 
+<a href="https://www.javascript.com" target="_blank"> <img align="left" alt="C++" width="26px" src="images/cpp logo.png"/> </a>
+
 <br/><br/>
 
 ## Microcontrollers/ Computers:
 
+
+    
+<table>
+<tr>
+<td>
 Raspberry Pi:
-
 <a href="https://www.raspberrypi.org/">
-    <img  src="https://upload.wikimedia.org/wikipedia/commons/1/10/Raspberry-Pi-3.gif?20180224181840" align="center" width="320" height="320" />
+    <img  src="https://upload.wikimedia.org/wikipedia/commons/1/10/Raspberry-Pi-3.gif?20180224181840" align="left" width="320" height="320" />
 </a>
+</td>
 
-<br/>
 
+
+
+<td>
 Arduino:
-
 <a href="https://www.arduino.cc/">
-    <img  src="https://makeabilitylab.github.io/physcomp/arduino/assets/movies/ArduinoUno_BlinkMultiple_Workbench.gif" align="center" width="320" height="320" />
+    <img  src="https://makeabilitylab.github.io/physcomp/arduino/assets/movies/ArduinoUno_BlinkMultiple_Workbench.gif" align="right" width="320" height="320" />
 </a>
+</td>
+</tr>
+</table>
 
 
 <br/><br/>
