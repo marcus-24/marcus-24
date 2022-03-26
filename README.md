@@ -25,9 +25,9 @@ This is one of the best platforms where I can demonstrate my passion for applyi
 <table cellspacing="0" cellpadding="0">
 <tr>
 <td>
-Raspberry Pi:
+<p style="text-align:center;"> Raspberry Pi </p>
 <a href="https://www.raspberrypi.org/">
-    <img  src="https://upload.wikimedia.org/wikipedia/commons/1/10/Raspberry-Pi-3.gif?20180224181840" align="left" width="320" height="320" />
+    <img  src="https://upload.wikimedia.org/wikipedia/commons/1/10/Raspberry-Pi-3.gif?20180224181840" align="center" width="320" height="320" />
 </a>
 </td>
 
@@ -35,9 +35,9 @@ Raspberry Pi:
 
 
 <td>
-Arduino:
+<p style="text-align:center;"> Arduino </p>
 <a href="https://www.arduino.cc/">
-    <img  src="https://makeabilitylab.github.io/physcomp/arduino/assets/movies/ArduinoUno_BlinkMultiple_Workbench.gif" align="right" width="320" height="320" />
+    <img  src="https://makeabilitylab.github.io/physcomp/arduino/assets/movies/ArduinoUno_BlinkMultiple_Workbench.gif" align="center" width="320" height="320" />
 </a>
 </td>
 </tr>
