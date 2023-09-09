@@ -1,6 +1,6 @@
 
 # Introduction
-Welcome to my github page! 👋👋
+Welcome to my GitHub page! 👋👋
 
 This is one of the best platforms where I can demonstrate my passion for applying my mechanical engineering knowledge towards developing software for control systems and machine learning applications. Anyone is welcome to join my repositories as a collaborator so we can learn from each other. 
 
@@ -24,19 +24,24 @@ Everyone needs to remember that there are people behind the screen who develop t
 
 <br/>
 
-When I run my code for the first time and everything works perfectly:
+Writing the stakeholder's requirements to translate into unit tests:
 
-<img  src="https://media.giphy.com/media/IwAZ6dvvvaTtdI8SD5/giphy.gif" align="center" width="480" height="480" />
-
-<br />
-
-
-When my code works but I dont know why:
-
-<img  src="https://media.giphy.com/media/tvU9iTev6uBIQ/giphy.gif" align="center" width="480" height="480" />
+<img  src="https://media.giphy.com/media/VFYJXIuuFl6pO/giphy.gif" align="center" width="480" height="480" />
 
 <br />
 
-When the code produces an unexpected output and I have to find the error:
+<br/>
 
-<img  src="https://media.giphy.com/media/12shQyP6KMXCZW/giphy.gif" align="center" width="480" height="480" />
+My inner voice reminds me to keep the functions/classes small and to follow SOLID Principles so my code is scalable:
+
+<img  src="https://media.giphy.com/media/l0MYKfrEMRw1dYkus/giphy.gif" align="center" width="480" height="480" />
+
+<br/>
+
+<br/>
+
+Celebrating the small wins when my first iteration of code passes all of my unit tests:
+
+<img  src="https://media.giphy.com/media/xSM46ernAUN3y/giphy.gif" align="center" width="480" height="480" />
+
+
