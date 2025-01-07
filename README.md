@@ -66,10 +66,8 @@ captures my experience with machine learning development, Machine Learning Opera
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="50" height="50"/>&nbsp;
 </section>
 
----
-
 ## :fire: My Stats :
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=marcus-24&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=marcus-24)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcus-24&theme=dark&layout=compact)](https://github.com/marcus-24/github-readme-stats)
