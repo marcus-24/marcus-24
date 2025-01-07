@@ -1,4 +1,4 @@
-<header align="center">
+<section align="center">
 <div id="header" >
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWJmbTIzaWg2eHZhejV1M2dodjJxbW9sYXFrNG85ZTh1dzlmNHM2OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/i1JHRZSXO9LZZDHqii/giphy.gif" width="200"/>
 </div>
@@ -18,7 +18,7 @@
   Welcome to my GitHub Page
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-</header>
+</section>
 
 <section id="introduction">
 <div align="center">
