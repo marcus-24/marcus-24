@@ -62,6 +62,6 @@ I'm a Mechanical Engineer working as a Data Scientist.
 
 ## :fire: My Stats :
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=marcus-24)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=marcus-24)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcus-24)](https://github.com/marcus-24/github-readme-stats)
