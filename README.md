@@ -68,11 +68,8 @@ captures my experience with machine learning development, Machine Learning Opera
 
 ---
 
-<section align="center">
 ## :fire: My Stats :
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=marcus-24&theme=dark)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcus-24&theme=dark&layout=compact)](https://github.com/marcus-24/github-readme-stats)
-
-</section>
