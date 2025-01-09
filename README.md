@@ -39,8 +39,10 @@ captures my experience with machine learning development, Machine Learning Opera
 - :joystick: Developed serial communication for motion capture sensors.
 - :chart_with_upwards_trend: Working on using ReactJS and Typescript to create web data visualization pages.
 - :recycle: Created end to end MLOps solutions.
-- :cloud: Experience with deploying machine learning solutions to cloud platforms (Microsoft Azure and AWS).
+- :cloud: Deployed machine learning solutions to cloud platforms (Microsoft Azure and AWS).
 - :factory_worker: Within the Internet of Things (IoT) space, I generated data large data pipelines through Apache Spark.
+- :camera: Experience with computer vision ML models to classify anomalies in images.
+- :memo::pencil: Developed sentiment analysis models in TensorFlow and Pytorch. I'm working on pulling and using large language models (LLMs) from Hugging Face.
 
 ## :hammer_and_wrench: Languages and Tools :
 
@@ -68,6 +70,6 @@ captures my experience with machine learning development, Machine Learning Opera
 
 ## :fire: My Stats :
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=marcus-24)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-nine-ecru.vercel.app?user=marcus-24&theme=dark&border_radius=6)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcus-24&theme=dark&layout=compact)](https://github.com/marcus-24/github-readme-stats)
