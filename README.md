@@ -37,11 +37,11 @@ to help predict when mechanical systems will fail and reduce the repair time. Th
 captures my experience with machine learning development, Machine Learning Operations (MLOps), Web Development, sensor communication, and cloud deployments.
 
 - :joystick: Developed serial communication for motion capture sensors.
-- :chart_with_upwards_trend: Working on using ReactJS and Typescript to create web data visualization pages.
+- :chart_with_upwards_trend: Used ReactJS and Typescript to create web data visualization pages.
 - :recycle: Created end to end MLOps solutions.
 - :cloud: Deployed machine learning solutions to cloud platforms (Microsoft Azure and AWS).
 - :factory_worker: Within the Internet of Things (IoT) space, I generated large data pipelines through Apache Spark.
-- :camera: Experience with computer vision ML models to classify anomalies in images.
+- :camera: Classified anomalies in images using computer vision ML models.
 - :memo::pencil: Developed sentiment analysis models in TensorFlow and Pytorch. I'm working on pulling and using large language models (LLMs) from Hugging Face.
 
 ## :hammer_and_wrench: Languages and Tools
