@@ -30,7 +30,7 @@
 </div>
 </section>
 
-## :man_technologist: About Me :
+## :man_technologist: About Me
 
 I'm a mechanical engineer working as a data scientist. I use my expertise to create machine learning models
 to help predict when mechanical systems will fail and reduce the repair time. This repository
@@ -40,11 +40,11 @@ captures my experience with machine learning development, Machine Learning Opera
 - :chart_with_upwards_trend: Working on using ReactJS and Typescript to create web data visualization pages.
 - :recycle: Created end to end MLOps solutions.
 - :cloud: Deployed machine learning solutions to cloud platforms (Microsoft Azure and AWS).
-- :factory_worker: Within the Internet of Things (IoT) space, I generated data large data pipelines through Apache Spark.
+- :factory_worker: Within the Internet of Things (IoT) space, I generated large data pipelines through Apache Spark.
 - :camera: Experience with computer vision ML models to classify anomalies in images.
 - :memo::pencil: Developed sentiment analysis models in TensorFlow and Pytorch. I'm working on pulling and using large language models (LLMs) from Hugging Face.
 
-## :hammer_and_wrench: Languages and Tools :
+## :hammer_and_wrench: Languages and Tools
 
 <section>
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="50" height="50"/>&nbsp;
@@ -68,7 +68,7 @@ captures my experience with machine learning development, Machine Learning Opera
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="50" height="50"/>&nbsp;
 </section>
 
-## :fire: My Stats :
+## :fire: My Stats
 
 [![GitHub Streak](https://github-readme-streak-stats-nine-ecru.vercel.app?user=marcus-24&theme=dark&border_radius=6)](https://git.io/streak-stats)
 
