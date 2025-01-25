@@ -6,9 +6,12 @@
   <a href="https://www.linkedin.com/in/marcuscallen/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-<a href="https://leetcode.com/u/marcuscallen24/">
-<img src="https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06" height="30">
-</a>
+  <a href="https://huggingface.co/DrMarcus24">
+    <img src="https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black" alt="HuggingFace" height="30">
+  </a>
+  <a href="https://leetcode.com/u/marcuscallen24/">
+    <img src="https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06" alt="LeetCode" height="30">
+  </a>
 </div>
 <div >
 <img src="https://komarev.com/ghpvc/?username=marcus-24&style=flat-square&color=blue" alt=""/>
